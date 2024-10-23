@@ -20,7 +20,7 @@ cd chess
 ## Step 2: Build the Project
 
 Use Gradle to build the project. This will compile the source code and package it into a JAR file.\
-You _will_ need to change the build.gradle in the engine folder
+You _will_ need to change the `build.gradle` in the `engine` folder
 
 ### build.gradle
 ```groovy
