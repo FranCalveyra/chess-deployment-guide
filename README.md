@@ -114,7 +114,7 @@ The previous `jproRelease` task will generate a `.zip` file, located in `engine/
 You'll have to unzip it in your repository, preferably in the root.
 
 Once extracted, we'll need to modify the Dockerfile that the folder provides us.\
-It should be something like this: \
+It should be something like this:
 
 Note: the only thing you should change is the ``FROM``, which has to be `openjdk:21-jdk-slim`
 ```Dockerfile
